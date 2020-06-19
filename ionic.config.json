@@ -1,0 +1,7 @@
+{
+  "name": "pushNotificationOneSignal",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
