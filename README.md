@@ -1,2 +1,2 @@
 # ionicPushNotificationOneSignal
-ionic5 push notification OneSignal/Firebase
+ionic 5 push notification OneSignal/Firebase
