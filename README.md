@@ -25,3 +25,15 @@ follow this tutorial https://devdactic.com/push-notifications-ionic-onesignal/ f
 **System:**
   - NodeJS            : v10.15.0 (C:\Program Files\nodejs\node.exe)
   - npm               : 6.4.1
+  
+## Instructions
+- download project
+- create the corret environment as described above
+- esecute npm install
+- change **YOUR ONESIGNAL APP ID** and **YOUR ANDROID ID** with your APP ID (OneSignal) and ANDROID ID (firebase) in "https://github.com/AndreaCimetta/ionicPushNotificationOneSignal/blob/a42cdeed1340958a46fcdc86b08b81c1926199df/src/app/app.component.ts#L36"
+- **iOS**
+  - ionic cordova platform add ios
+  - ionic cordova build ios
+- **Android**
+  - ionic cordova platform add android
+  - ionic cordova build android
