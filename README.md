@@ -23,7 +23,7 @@ follow this tutorial https://devdactic.com/push-notifications-ionic-onesignal/ f
   - native-run  : not installed
 
 **System:**
-  - NodeJS            : v10.15.0 (C:\Program Files\nodejs\node.exe)
+  - NodeJS            : v10.15.0
   - npm               : 6.4.1
   
 ## Instructions
