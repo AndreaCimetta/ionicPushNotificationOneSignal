@@ -6,7 +6,7 @@ follow this tutorial https://devdactic.com/push-notifications-ionic-onesignal/ f
 ## Environment settings 
 
 **Ionic:**
-  - Ionic CLI                     : 6.10.1 (C:\Users\cimetta\AppData\Roaming\nvm\v10.15.0\node_modules\@ionic\cli)
+  - Ionic CLI                     : 6.10.1
   - Ionic Framework               : @ionic/angular 5.2.2
   - @angular-devkit/build-angular : 0.901.9
   - @angular-devkit/schematics    : 9.1.9
